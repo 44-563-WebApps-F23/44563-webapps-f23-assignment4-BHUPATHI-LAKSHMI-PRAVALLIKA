@@ -14,10 +14,22 @@
     color: blueviolet;
 }
 .KAIA{
-    color: brown;
+    color: brown;    
+}
+.KAIA:hover{
+    background-color:bisque;
+    text-align: center;
+    text-shadow: 2px 2px 6px blue;
+    border:dashed;
 }
 .SOLNESS{
     color:darkblue;
+}
+.SOLNESS:hover{
+    background-color:burlywood;
+    text-align: center;
+    text-shadow: 2px 2px 6px black;
+    border:dotted;
 }
 table{
     width: 100%;
